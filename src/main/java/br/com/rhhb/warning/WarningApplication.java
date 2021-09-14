@@ -1,13 +1,13 @@
-package br.com.cers.backend.cersbackend;
+package br.com.rhhb.warning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CersBackendApplication {
+public class WarningApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CersBackendApplication.class, args);
+        SpringApplication.run(WarningApplication.class, args);
     }
 
 }

@@ -1,6 +1,6 @@
-package br.com.cers.backend.cersbackend.repository;
+package br.com.rhhb.warning.repository;
 
-import br.com.cers.backend.cersbackend.entity.Warning;
+import br.com.rhhb.warning.entity.Warning;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

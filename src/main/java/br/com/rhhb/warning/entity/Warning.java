@@ -1,4 +1,4 @@
-package br.com.cers.backend.cersbackend.entity;
+package br.com.rhhb.warning.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
